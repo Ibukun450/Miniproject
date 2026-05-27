@@ -374,13 +374,13 @@ body{
 
 #big-photo {
   width: 50%;
-  height: 30vh;
+  height: 50vh;
   overflow: hidden;
   position: relative;
 }
 
 #big-photo img {
-  width: 100%; height: 100%;
+  width: 100%; height: 50%;
   object-position: center 30%;
 }
 
