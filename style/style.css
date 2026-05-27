@@ -374,7 +374,7 @@ body{
 
 #big-photo {
   width: 50%;
-  height: 100vh;
+  height: 30vh;
   overflow: hidden;
   position: relative;
 }
